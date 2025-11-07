@@ -60,7 +60,7 @@ URLの末尾に `?text=♡&count=30` のように付けると、
 ## 🙏 オリジナル・インスピレーション
 
 このプロジェクトは、Qiita に投稿された  
-[“Chromeのブックマーク用区切り線を作ったよ！ #PHP”](https://qiita.com/rana_kualu/items/71a7afce456ccd38c8bd)（投稿者：rana_kualu）よりアイデアを頂き、静的な形式でリメイクしたものです。 :contentReference[oaicite:3]{index=3}
+[“Chromeのブックマーク用区切り線を作ったよ！ #PHP”](https://qiita.com/rana_kualu/items/71a7afce456ccd38c8bd)（投稿者：rana_kualu）よりアイデアを頂き、静的な形式でリメイクしたものです。
 
 ---
 
